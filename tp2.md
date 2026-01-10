@@ -1,8 +1,3 @@
-Voici un **TP clé en main**, rédigé en **Markdown**, directement distribuable aux étudiants.
-Il est structuré, progressif, et insiste sur le **raisonnement réseau**, pas uniquement sur la manipulation.
-
----
-
 # TP — Comprendre les adresses MAC et la table ARP
 
 ## Objectifs pédagogiques
