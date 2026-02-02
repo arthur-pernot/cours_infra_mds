@@ -234,14 +234,6 @@ Exemple :
 
 ## Étape 6 — Tests après VLAN (15 min)
 
-Tester avec **ping** :
-
-| Source | Destination | Résultat attendu |
-| ------ | ----------- | ---------------- |
-| PC1    | PC3         |   OK             |
-| PC2    | PC4         |   OK             |
-| PC1    | PC2         |   Échec          |
-
 ### Questions
 
 * Pourquoi PC1 et PC2 ne communiquent plus ?
