@@ -191,6 +191,7 @@ Vous pouvez utiliser :
 Exercice 6 — Hash et mots de passe
 
 Répondez précisément :
+```text
     Pourquoi ne stocke-t-on jamais un mot de passe en clair ?
 
     Un checksum sert principalement à __________________________
@@ -198,4 +199,4 @@ Répondez précisément :
     Un hash cryptographique permet de __________________________
 
     L’effet avalanche signifie que __________________________
-
+```
